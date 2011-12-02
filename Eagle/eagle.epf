@@ -1,2 +1,25 @@
 [Eagle]
 Version="05 11 00"
+Platform="Windows"
+Serial="6B247C8844-LSR-WLM-1SS"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EAGLE-5.11.0/lbr/SmallRoomLabs.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-5.11.0/lbr/SparkFun.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-5.11.0/lbr/adafruit.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-5.11.0/lbr/crystal.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-5.11.0/lbr/jumper.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-5.11.0/lbr/microbuilder.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="307 76 906 625"
+State=2
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"
